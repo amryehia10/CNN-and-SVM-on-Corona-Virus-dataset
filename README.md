@@ -1,1 +1,1 @@
-# CNN-on-Corona-Virus-dataset
+# CNN-and-SVM-on-Corona-Virus-dataset
